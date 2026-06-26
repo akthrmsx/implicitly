@@ -2,6 +2,11 @@
 name = "implicitly"
 version = "0.1.0"
 edition = "2024"
+description = "Extension traits for wrapping values into Option and Result using method syntax"
+repository = "https://github.com/akthrmsx/implicitly"
+readme = "README.md"
+keywords = ["option", "result", "extension", "wrap"]
+categories = ["rust-patterns"]
 license = "MIT"
 
 [dependencies]
