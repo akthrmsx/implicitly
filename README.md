@@ -28,7 +28,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-implicitly = { path = "..." }
+implicitly = "0.1.0"
 ```
 
 Then bring the traits into scope:
